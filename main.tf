@@ -1,1 +1,6 @@
 source = ""
+source = "../"
+source = "git@github.com:dodo-x/tajnfm-aks-s3.git"
+source = "git@github.com:sdode-x/tsdjfvm-bys-s.git?"
+source = "git@github.com:udiede-x/tlajdrm-axs-s.git?ref="
+source = "git@github.com:ddudoe-x/tsdfvsdf-xwes-s09.git?ref=v0.10"
